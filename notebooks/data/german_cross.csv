@@ -1,0 +1,6 @@
+bin,accuracy
+Mistral-7B-v0.1.csv,0.01288855193328279
+Abel-7B-002.csv,0.12585291887793784
+Arithmo2-Mistral-7B.csv,0.2395754359363154
+em_german_mistral_v01.csv,0.1425322213798332
+phenotype_0_german_ties.csv,0.44351781652767247

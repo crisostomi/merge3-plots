@@ -1,0 +1,4 @@
+bin,accuracy
+MetaMath-Mistral-7B.csv,0.22062168309325247
+RoMistral-7b-Instruct.csv,0.058377558756633814
+phenotype_0.csv,0.3661865049279757

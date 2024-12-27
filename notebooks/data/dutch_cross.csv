@@ -1,0 +1,4 @@
+bin,accuracy
+GEITje-7B-ultra.csv,0.09249431387414708
+MetaMath-Mistral-7B.csv,0.2896133434420015
+phenotype_0.csv,0.3904473085670963

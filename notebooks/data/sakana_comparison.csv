@@ -1,0 +1,10 @@
+bin,accuracy,dataset_size
+Mistral-7B-v0.1.csv,0.0,0
+shisa-gamma-7b-v1.csv,0.02,0
+Arithmo2-Mistral-7B.csv,0.036,0
+Abel-7B-002.csv,0.244,0
+phenotype_0_rc20.csv,0.344,20
+phenotype_1_rc30.csv,0.38,30
+phenotype_2_rc50.csv,0.38,50
+phenotype_3_rc100.csv,0.42,100
+EvoLLM-JP-v1-7B.csv,0.488,1069
